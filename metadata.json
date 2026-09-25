@@ -1,0 +1,7 @@
+{
+  "name": "Nowshera Family Clinic",
+  "description": "Modern Appointment and Patient Management Portal for Nowshera Family Clinic",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
